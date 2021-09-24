@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: d6d04e43ca3e8ce43a64e482f03c3bb9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 3701f04596f8fac4193258c57bcd3a4a, type: 3}
+  Settings:
+    ApplyStageTransform: 0
+    DefaultWrapMode: 2
+    AudioImport: 2
+    ImportCameras: 1
+    UnlitByDefault: 1
+    Shader: AnimVR/ImportedLine
+    SimplifyFactor: 1
+  materials:
+  - name: cubo direcciones_2_BaseMaterial
+    type: Material
+    assembly: UnityEngine.CoreModule
+  needsAudioReimport: 0
+  PreviewTexture: {instanceID: 0}
+  InfoString: "FPS: 24, 120 frames \n19748 verts, 73 lines"
+  HasFades: 0

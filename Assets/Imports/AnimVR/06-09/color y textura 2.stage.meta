@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: a40a245e589a26e48bcf6bda72eb3e90
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 3701f04596f8fac4193258c57bcd3a4a, type: 3}
+  Settings:
+    ApplyStageTransform: 0
+    DefaultWrapMode: 2
+    AudioImport: 2
+    ImportCameras: 1
+    UnlitByDefault: 1
+    Shader: AnimVR/ImportedLine
+    SimplifyFactor: 1
+  materials:
+  - name: color y textura 2_BaseMaterial
+    type: Material
+    assembly: UnityEngine.CoreModule
+  needsAudioReimport: 0
+  PreviewTexture: {instanceID: 0}
+  InfoString: "FPS: 12, 120 frames \n822920 verts, 3002 lines"
+  HasFades: 0
