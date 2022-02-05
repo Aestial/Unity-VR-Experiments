@@ -12,7 +12,7 @@ namespace AnimVR.Timeline {
     ///   <para>Asset that generates playables for controlling time-related elements on a GameObject.</para>
     /// </summary>
     [Serializable]
-    [UnityEngine.Animations.NotKeyable]
+    [UnityEngine.Timeline.NotKeyable]
     public class AnimControlPlayableAsset : PlayableAsset, IPropertyPreview, ITimelineClipAsset {
 
         private static readonly List<PlayableDirector> k_EmptyDirectorsList = new List<PlayableDirector>(0);

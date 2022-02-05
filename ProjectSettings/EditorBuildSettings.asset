@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Skybox.unity
-    guid: 2cdc01b751796cc409caefed5fa68fc2
+    path: Assets/Scenes/Skybox-AnimVR.unity
+    guid: ee75b4e1da935364680f0fd62fa41e23
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}

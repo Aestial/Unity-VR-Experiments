@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 16e0d4f7c98f1724e9b659318577add3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 3701f04596f8fac4193258c57bcd3a4a, type: 3}
+  Settings:
+    ApplyStageTransform: 0
+    DefaultWrapMode: 2
+    AudioImport: 2
+    ImportCameras: 1
+    UnlitByDefault: 1
+    Shader: AnimVR/ImportedLine
+    SimplifyFactor: 1
+  materials:
+  - name: fondo2_BaseMaterial
+    type: Material
+    assembly: UnityEngine.CoreModule
+  needsAudioReimport: 0
+  PreviewTexture: {instanceID: 0}
+  InfoString: "FPS: 24, 120 frames \n31832 verts, 52 lines"
+  HasFades: 0

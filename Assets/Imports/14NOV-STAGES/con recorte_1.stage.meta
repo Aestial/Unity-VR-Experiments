@@ -1,0 +1,71 @@
+fileFormatVersion: 2
+guid: f9b2217b24d3ca245b46e8829df36722
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 3701f04596f8fac4193258c57bcd3a4a, type: 3}
+  Settings:
+    ApplyStageTransform: 0
+    DefaultWrapMode: 2
+    AudioImport: 2
+    ImportCameras: 1
+    UnlitByDefault: 1
+    Shader: AnimVR/ImportedLine
+    SimplifyFactor: 1
+  materials:
+  - name: Symbol/mancha01/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha02 (clone)/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha03/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha04/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha05/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha06/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha12/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha11/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha06/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha09/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha10/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha10/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha07/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha08/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: Symbol/mancha09/TransformAnchor_material0
+    type: Material
+    assembly: UnityEngine.CoreModule
+  - name: con recorte_1_BaseMaterial
+    type: Material
+    assembly: UnityEngine.CoreModule
+  needsAudioReimport: 0
+  PreviewTexture: {instanceID: 0}
+  InfoString: "FPS: 24, 120 frames \n6772 verts, 31 lines"
+  HasFades: 0
